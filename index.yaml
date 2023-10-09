@@ -3,12 +3,12 @@ entries:
   hello-world-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-09T20:29:56.948507+02:00"
+    created: "2023-10-09T21:15:52.79134+02:00"
     description: A Helm chart for Kubernetes
     digest: 8e6c2868d981220be5383f3007989472c01b17d4cbe13f598fac697f69334ee6
     name: hello-world-chart
     type: application
     urls:
-    - https://gboberek.github.io/hello-world-chart/hello-world-chart-0.1.0.tgz
+    - https://gboberek.github.io/helm_hello_world/hello-world-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-09T20:29:56.947576+02:00"
+generated: "2023-10-09T21:15:52.788397+02:00"
